@@ -1,5 +1,4 @@
 # Satellite Super-Resolution Mapping (SRM) — Architecture
-*A simple guide to how the whole project fits together. It matches `SIH26142_Implementation_Plan.md`.*
 
 ---
 

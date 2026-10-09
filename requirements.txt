@@ -1,0 +1,17 @@
+torch
+torchvision
+rasterio
+rioxarray
+geopandas
+osmnx
+shapely
+pyarrow
+duckdb
+huggingface_hub
+pytest
+matplotlib
+pystac-client
+planetary-computer
+odc-stac
+tacoreader
+opensr-test

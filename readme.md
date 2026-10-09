@@ -1,10 +1,9 @@
-# SIH26142 — Fidelity-First Super-Resolution Mapping (SRM) of Sentinel-2 Imagery
+# Satellite Super-Resolution Mapping (SRM) — Architecture
 ### Implementation Plan (v1.0 · prepared 8 Oct 2026)
 
 **Problem:** Deep-learning super-resolution from medium-resolution satellite imagery (NTRO · Smart Education · Software)
 **One-line strategy:** Build a *trustworthy* 10 m → 2.5 m Sentinel-2 super-resolver. The product is the **proof of fidelity** (hallucination, spectral, geometric and downstream tests, plus per-pixel uncertainty), not just sharper-looking pictures.
 
-> **How to use this document.** Section 0 is the *contract*. Every later section obeys it. If you ever feel two sections disagree, Section 0 wins. Items marked **[VERIFY]** could not be confirmed during research and must be checked in Phase 0 before being relied on.
 
 ---
 
